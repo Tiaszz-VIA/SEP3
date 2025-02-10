@@ -1,0 +1,8 @@
+org\example\service\CustomerServiceTest.class
+org\example\model\AdminModelTest.class
+org\example\model\CustomerModelTest.class
+org\example\controller\CustomerControllerTest.class
+org\example\controller\AdminControllerTest.class
+org\example\repository\AdminRepositoryTest.class
+org\example\repository\CustomerRepositoryTest.class
+org\example\service\AdminServiceTest.class
